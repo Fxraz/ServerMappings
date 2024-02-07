@@ -2,7 +2,7 @@
     "id": "bms",
     "name": "Bangladesh Minecraft Society",
     "addresses": [
-        "minecraftbangladesh.com",
+        "minecraftbangladesh.com"
     ],
     "primaryAddress": "play.minecraftbangladesh.com",
     "primaryColor": "#62caf5",
@@ -27,5 +27,5 @@
     ],
     "socials": {
         "discord": "http://discord.gg/p3MDbGdag6"
-    },
+    }
 }
